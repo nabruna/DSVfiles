@@ -1,8 +1,7 @@
-﻿using System.Diagnostics.Contracts;
-using System.Security.Cryptography.X509Certificates;
-
-int size = 20;
+﻿int size = 20;
 int[] arrUnord = new int[size];
+int ord;
+bool swap = false;
 Random random = new();
 
 for (int i = 0; i < size; i++)
@@ -20,6 +19,21 @@ void PrintArr() {
     Console.WriteLine("\n");
 }
 
-Array.Sort(arrUnord);
+// Array.Sort(arrUnord);
+
+do {
+    swap = false;
+    for (int i = 0; i < size-1; i++)
+    {
+        if (arrUnord[i] > arrUnord[i+1]) {
+            ord = arrUnord[i];
+            arrUnord[i] = arrUnord[i+1];
+            arrUnord[i+1] = ord;
+            swap = true;
+        }
+    }
+} while (swap);
+
+// BubbleSort();
 
 PrintArr();

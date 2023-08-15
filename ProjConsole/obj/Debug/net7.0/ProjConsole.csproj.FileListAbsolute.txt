@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\bin\Debug\net7.0\ProjConsole.exe
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\bin\Debug\net7.0\ProjConsole.deps.json
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\bin\Debug\net7.0\ProjConsole.runtimeconfig.json
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\bin\Debug\net7.0\ProjConsole.dll
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\bin\Debug\net7.0\ProjConsole.pdb
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ProjConsole.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ProjConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ProjConsole.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ProjConsole.AssemblyInfo.cs
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ProjConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ProjConsole.dll
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\refint\ProjConsole.dll
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ProjConsole.pdb
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ProjConsole.genruntimeconfig.cache
+C:\Users\Aluno\Documents\DSVfiles\ProjConsole\obj\Debug\net7.0\ref\ProjConsole.dll
